@@ -43,3 +43,6 @@ GitHub : [@rykdesjardins](https://github.com/rykdesjardins)
 Google Plus : What?
 
 TikTok : ...what? Like, design pattern brainstorm videos?
+
+## Favorite emoji
+Definitely [the 🍞 emoji](https://www.youtube.com/watch?v=UkRoCE8J0Mc). 
