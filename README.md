@@ -3,8 +3,6 @@ Hello, you. :wave:
 
 I'm Erik, and this is a GitHub profile. I did not invent GitHub, definitely did not [invent Git](https://en.wikipedia.org/wiki/Linus_Torvalds), but I did create this README which is far less exciting and does not warrant [the creation of a Wikipedia page](https://en.wikipedia.org/wiki/Erik_Desjardins). 
 
-[Narcity Media](https://www.narcitymedia.com/whoweare) is an awesome company that takes good care of its employees. I'm part of Narcity Media. Therefore, I take good care of my employees. If you're amazing at developing with web technologies, but are treated like you're `/dev/null`, apply :arrow_right: [right here](https://www.narcitymedia.com/careers) :arrow_left:. 
-
 I'm from Canada Montreal, speak French & English, and can type 121 words per minute. Passionate about Linux, security, and the open source community.
 
 ## Motivations
