@@ -26,7 +26,7 @@ Invested in [Bitcoin](https://bitcoin.org/fr/). Made a [few dollars](https://www
 ## Get in touch
 I guess you might want to get in touch for some reason. I'm not one to judge. You look kinda cool tbh.
 
-Feel free to add me on any of the platforms listed underneath, or send me an email ✉️ erik@narcitymedia.com.
+Feel free to add me on any of the platforms listed underneath, or send me an email ✉️ erik@5onefour.com.
 
 ## Social
 
