@@ -12,7 +12,7 @@ Can't say I've always been into development. Actually that is totally untrue.
 
 Here's a super cute picture of my dad and I at 11 **days** old. 
 
-![Erik's super cute baby picture](https://static.erikdesjardins.me/github/intro_img1_small.jpg) 
+![Erik's super cute baby picture](https://iili.io/RzFiwx.md.jpg) 
 
 ## Backstory
 First programming languages I've learned are C++ and Ruby. [RPG Maker](https://www.rpgmakerweb.com/) made me want to get better at programming so that I could finish my exciting RPG nobody will nor should ever play. Founded my first company while studying computer programming in CEGEP. CEGEP is a weird step in the Canadian education system. I loved it.
