@@ -21,7 +21,7 @@ Then did a couple years of university in engineering at two different universiti
 
 Began working as a solo player, creating systems for small & medium businesses, fixing bugs online, and contributing to a couple open source projects. 
 
-Invested in [Bitcoin](https://bitcoin.org/fr/). Made a [few dollars](https://www.coindesk.com/price/bitcoin). Met with [MTL Blog](https://www.mtlblog.com/). Offered my services. Hired interns from university. Created a CMS. Hired people. Now I'm Chief ~Memes~ Technology Officer.
+Invested in [Bitcoin](https://bitcoin.org/fr/). Made a [few dollars](https://www.coindesk.com/price/bitcoin). Met with [MTL Blog](https://www.mtlblog.com/). Offered my services. Hired interns from university. Created a CMS. Hired people. Became Chief ~Memes~ Technology Officer of [Narcity Media](https://www.narcitymedia.com/). Exited. Back to creating cool shit for small businesses. 
 
 ## Get in touch
 I guess you might want to get in touch for some reason. I'm not one to judge. You look kinda cool tbh.
