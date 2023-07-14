@@ -26,7 +26,7 @@ Invested in [Bitcoin](https://bitcoin.org/fr/). Made a [few dollars](https://www
 ## Get in touch
 I guess you might want to get in touch for some reason. I'm not one to judge. You look kinda cool tbh.
 
-Feel free to add me on any of the platforms listed underneath, or send me an email ✉️ erik@5onefour.com.
+Feel free to add me on any of the platforms listed underneath.
 
 ## Social
 
@@ -44,3 +44,8 @@ TikTok : ...what? Like, design pattern brainstorm videos?
 
 ## Favorite emoji
 Definitely [the 🍞 emoji](https://www.youtube.com/watch?v=UkRoCE8J0Mc). 
+
+## Please don't send me crypto
+**BTC** : bc1qrau3fddgmxv3pjtnas6ucm0elz6tqc5nsthy7e
+
+**ETH** : 0x5a5538bc52f7bbe8213fb2e79870c6a7bc63c014
