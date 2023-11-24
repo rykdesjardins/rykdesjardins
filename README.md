@@ -6,7 +6,7 @@ I'm Erik, and this is a GitHub profile. I did not invent GitHub, definitely did 
 I'm from Canada Montreal, speak French & English, and can type 121 words per minute. Passionate about Linux, security, and the open source community.
 
 ## Motivations
-As a kid, I was young. Now, I'm still young, but with a receding hairline. I have lived a total of 30 years on this planet, but it's the only planet I've ever lived on. 🌍 I believe it's important to take care of it. 🌍 That's why I always make sure we use a ridiculously small amount of electricity to achieve greatness. Performance is perceivable. Users love 'em fast websites.
+As a kid, I was young. Now, I'm still young, but with a receding hairline. I have lived a total of 32 years on this planet, but it's the only planet I've ever lived on. 🌍 I believe it's important to take care of it. 🌍 That's why I always make sure we use a ridiculously small amount of electricity to achieve greatness. Performance is perceivable. Users love 'em fast websites.
 
 Can't say I've always been into development. Actually that is totally untrue. 
 
