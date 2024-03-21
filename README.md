@@ -48,4 +48,4 @@ Definitely [the 🍞 emoji](https://www.youtube.com/watch?v=UkRoCE8J0Mc).
 ## Please don't send me crypto
 **BTC** : bc1qrau3fddgmxv3pjtnas6ucm0elz6tqc5nsthy7e
 
-**ETH** : 0x5a5538bc52f7bbe8213fb2e79870c6a7bc63c014
+**ETH** : rykdesjardins.eth
